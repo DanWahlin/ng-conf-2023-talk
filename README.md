@@ -12,7 +12,7 @@ When was the last time you made time to "think outside the box". We're all used 
 
 **Blog:** https://blog.codewithdan.com
 
-## Slides, Code, Hands-On Tutorial
+## Slides, Code, and Hands-On Tutorial
 
 **Slides:**  https://codewithdan.me/ng-conf-2023-slides
 
