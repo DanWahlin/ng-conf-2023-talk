@@ -16,13 +16,17 @@
 
 ## Organizational Data APIs
 
-**Google Workspace Docs:** https://codewithdan.me/workspace-docs
-
 **Microsoft 365/Microsoft Graph Docs:** https://codewithdan.me/msgraph-docs​
 
-**Slack API Docs:** https://codewithdan.me/slack-api-docs​
-
 **Microsoft Teams API Docs** https://codewithdan.me/teams-api-docs​
+
+**Microsoft Graph Explorer:** https://aka.ms/ge
+
+**Free Microsoft 365 Developer Tenant:** https://developer.microsoft.com/microsoft-365/dev-program
+
+**Google Workspace Docs:** https://codewithdan.me/workspace-docs
+
+**Slack API Docs:** https://codewithdan.me/slack-api-docs​
 
 ## Communication APIs
 
