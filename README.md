@@ -10,7 +10,7 @@
 
 **Slides:**  https://codewithdan.me/ng-conf-2023-slides
 
-**OpenAI/ACS/Microsoft Graph Tutorial:** https://codewithdan.me/openai-acs-msgraph
+**Hands-On OpenAI/ACS/Microsoft Graph Tutorial:** https://codewithdan.me/openai-acs-msgraph
 
 **GitHub Repo:** https://github.com/DanWahlin/openai-acs-msgraph
 
