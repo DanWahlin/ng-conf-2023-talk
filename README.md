@@ -36,8 +36,8 @@
 
 ## AI Services and APIs
 
-**Google Vertex AI Docs:** https://codewithdan.me/vertex-ai-docs
+**Azure OpenAI Docs:** https://codewithdan.me/azure-openai-docs
 
 **OpenAI Docs:** https://codewithdan.me/openai-docs
 
-**Azure OpenAI Docs:** https://codewithdan.me/azure-openai-docs
+**Google Vertex AI Docs:** https://codewithdan.me/vertex-ai-docs
