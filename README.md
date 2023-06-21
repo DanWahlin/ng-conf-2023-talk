@@ -38,9 +38,9 @@ When was the last time you made time to "think outside the box". We're all used 
 
 ## Communication APIs
 
-**Twilio Docs:** https://codewithdan.me/twilio-docs
-
 **Azure Communication Services Docs:** https://codewithdan.me/acs-docs
+
+**Twilio Docs:** https://codewithdan.me/twilio-docs
 
 ## AI Services and APIs
 
