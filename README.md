@@ -1,6 +1,6 @@
-# ng-conf 2023 Talk Resources
+# Thinking Outside the Box: Taking Your Line of Business Apps to the Next Level
 
-## Thinking Outside the Box: Taking Your Line of Business Apps to the Next Level
+**ng-conf 2023 Talk Resources**
 
 When was the last time you made time to "think outside the box". We're all used to working with front-end and back-end features, APIs, databases, cloud services, CI/CD, and more, but there's a lot more to it when you make time to factor in how users work everyday. This talk from ng-conf 2023 highlights 3 areas that can take your apps to the next level:
 
